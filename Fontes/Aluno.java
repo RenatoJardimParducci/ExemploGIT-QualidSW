@@ -1,8 +1,8 @@
-public class AlunoXXXX extends Pessoa {
+public class Aluno4X extends Pessoa {
 
 	private Matricula matricula;
 
-	public void SolicitarMatricula() {
+	public void SolicitarMatriculaS() {
 
 	}
 
